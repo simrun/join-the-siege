@@ -1,0 +1,11 @@
+accounting:
+  invoice:
+    - invoice
+  bank_statement:
+    - statement
+government:
+  drivers_licence:
+    - licence
+    - license
+  benefit_statement:
+    - statement
